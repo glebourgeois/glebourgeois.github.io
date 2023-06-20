@@ -4,7 +4,6 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, user-scalable=no">
   <link type="text/css" rel="stylesheet" href="./style.css">
-  <title> Guillaume Lebourgeois - Data Bricoleur Barbu</title>
 </head>
 <body>
   <h1>Bienvenue sur mon site de Data Bricoleur Barbu</h1>
