@@ -20,23 +20,19 @@
     <p>
       Plus récemment, j'ai monté un <a href="https://www.dumbphone.net">comparateur de dumbphone</a>.
     </p>
-
     <h2>Mon data profil Général (Linkedin)</h2>
     <p>
     <a href="http://fr.linkedin.com/pub/guillaume-lebourgeois/16/173/65a">          
     <img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33_fr_FR.png?locale=" width="160" height="33" border="0" alt="Voir le profil de Guillaume Lebourgeois sur LinkedIn">
     </a>
     </p>
-
     <h2>Mon data profil Dev (StackOverflow)</h2>
     <p>
       <a href="http://stackoverflow.com/users/395681/guillaume-lebourgeois"><img src="http://stackoverflow.com/users/flair/395681.png" width="208" height="58" alt="profile for Guillaume Lebourgeois at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Guillaume Lebourgeois at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
     </p>
-    
     <h2>Mon data profil Recherche (Mendeley)</h2>
     <p>
       <a href="http://www.mendeley.com/profiles/guillaume-lebourgeois/"><img border="0" src="http://www.mendeley.com/embed/icon/1/red/big" alt="Research papers by Guillaume Lebourgeois"/></a>
     </p>
-
 </body>
 </html>
