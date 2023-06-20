@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,6 +9,7 @@
     <h2>Quelques informations</h2>
     <p>
       Cette page de référence vous donne accès à toutes les informations concernant mon profil professionnel de <strong>Data Bricoleur Barbu</strong>.
+      Bien que j'ai évolué depuis quelques années vers rôles d'encadrement, de coordination et d'animation d'équipes, je conserve mon for ADN de Web-Miner des débuts !
     </p>
     <p>
     J'étais récemment <strong>CTO</strong> chez <a href="http://www.clustaar.com">Clustaar</a>.
