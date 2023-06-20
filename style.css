@@ -1,0 +1,28 @@
+
+body { 
+  max-width: 1200px;
+  color: black;
+  background-color: #FFFFFF;
+  font-family: arial, futura, helvetica;
+  /*background-image: url('../img/background/fond_DP_MP.png');*/
+  margin: 5px auto;
+} 
+
+
+h2 {
+  margin-top: 50px;
+} 
+
+
+#left-col {
+  float: left; 
+  width: 500px;
+}
+
+#right-col {
+  float: right;
+  width: 500px;
+  height: 650px;
+  margin-left: 50px;
+  margin-right: auto;
+}
