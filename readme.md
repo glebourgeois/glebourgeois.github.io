@@ -5,62 +5,6 @@
   <meta name="viewport" content="width=device-width, user-scalable=no">
   <link type="text/css" rel="stylesheet" href="./style.css">
   <title> Guillaume Lebourgeois - Data Bricoleur Barbu</title>
-
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-KPTHNVH');</script>
-  <!-- End Google Tag Manager -->
-
-  <!-- Browser Detection -->
-  <script>
-  navigator.browserInfo= (function(){
-      var ua= navigator.userAgent, tem,
-      M= ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
-      if(/trident/i.test(M[1])){
-          tem=  /\brv[ :]+(\d+)/g.exec(ua) || [];
-          return 'IE '+(tem[1] || '');
-      }
-      if(M[1]=== 'Chrome'){
-          tem= ua.match(/\b(OPR|Edge)\/(\d+)/);
-          if(tem!= null) return tem.slice(1).join(' ').replace('OPR', 'Opera');
-      }
-      M= M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
-      if((tem= ua.match(/version\/(\d+)/i))!= null) M.splice(1, 1, tem[1]);
-      return M.join(' ');
-  })(); 
-  </script>
-  
-  <!-- Declare sendEvent function -->
-  <script>
-    function sendEvent(eventName) {
-      window.ClustaarWebchat.sendCustomEvent(eventName);
-    }
-  </script>
-  
-  <!-- Declare Event Listener -->
-  <script>
-  function clustaarEventsListener(eventName) {
-    switch(eventName) {
-      case "REMOVE_JOKE": {
-        alert("Quoi, elle te plaît pas ma blague ?");
-        break;
-      };
-      case "CLSTR_USER_CLOSED_CHAT": {
-        alert("Désolé que tu ne souhaites pas converser avec moi plus logntemps :-(");
-        break;
-      }
-      case "BROWSER_INFO": {
-        console.log("Sending browser " + navigator.browserInfo);
-        window.ClustaarWebchat.pushAttribute('browser', navigator.browserInfo);
-        window.ClustaarWebchat.pushAttribute('browserPretty', "Your Browser reference is: " + navigator.browserInfo);
-      }
-    }
-   }
-  </script>
-
 </head>
 <body>
   <h1>Bienvenue sur mon site de Data Bricoleur Barbu</h1>
