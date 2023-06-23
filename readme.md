@@ -9,13 +9,13 @@
     <h2>Quelques informations</h2>
     <p>
       Cette page de référence vous donne accès à toutes les informations concernant mon profil professionnel de <strong>Data Bricoleur Barbu</strong>.
-      Bien que j'ai évolué depuis quelques années vers rôles d'encadrement, de coordination et d'animation d'équipes, je conserve mon for ADN de Web-Miner des débuts !
+      Bien que j'ai évolué depuis quelques années vers des rôles d'encadrement, de coordination et d'animation d'équipes, je conserve mon for ADN de Web-Miner des débuts !
     </p>
     <p>
-    J'étais récemment <strong>CTO</strong> chez <a href="http://www.clustaar.com">Clustaar</a>.
+    J'ai été récemment <strong>CTO</strong> chez <a href="http://www.clustaar.com">Clustaar</a>, ainsi que Engineering Manager chez <a href="https://www.zefir.fr">Zefir</a>, et j'aime travailler dans des milieux innovants, autour de problématiques d'extraction et d'exploitation de données.
     </p>
     <p>
-    J'ai également créé le site Prenomrama (offline), qui donne un regard statistique sur les prénoms français, et vous accompagne dans le choix d'un prénom pour votre bébé.
+    J'ai créé le site Prenomrama (offline depuis un crash serveur), qui donne un regard statistique sur les prénoms français, et vous accompagne dans le choix d'un prénom pour votre bébé.
     </p>
     <p>
       Plus récemment, j'ai monté un <a href="https://www.dumbphone.net">comparateur de dumbphone</a>.
@@ -29,10 +29,6 @@
     <h2>Mon data profil Dev (StackOverflow)</h2>
     <p>
       <a href="http://stackoverflow.com/users/395681/guillaume-lebourgeois"><img src="http://stackoverflow.com/users/flair/395681.png" width="208" height="58" alt="profile for Guillaume Lebourgeois at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Guillaume Lebourgeois at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-    </p>
-    <h2>Mon data profil Recherche (Mendeley)</h2>
-    <p>
-      <a href="http://www.mendeley.com/profiles/guillaume-lebourgeois/"><img border="0" src="http://www.mendeley.com/embed/icon/1/red/big" alt="Research papers by Guillaume Lebourgeois"/></a>
     </p>
 </body>
 </html>
