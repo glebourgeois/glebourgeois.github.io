@@ -20,6 +20,9 @@
     <p>
       Plus récemment, j'ai monté un <a href="https://www.dumbphone.net">comparateur de dumbphone</a>.
     </p>
+    <p>
+      En ce moment, je travaille sur une <a href="https://www.cotamed.fr">application <em>CotaMed</em></a> d'aide à la cotation pour les médecin généralistes.
+    </p>
     <h2>Mon data profil Général (Linkedin)</h2>
     <p>
     <a href="http://fr.linkedin.com/pub/guillaume-lebourgeois/16/173/65a">          
