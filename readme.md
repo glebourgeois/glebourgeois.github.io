@@ -21,7 +21,11 @@
       Plus récemment, j'ai monté un <a href="https://www.dumbphone.net">comparateur de dumbphone</a>.
     </p>
     <p>
-      En ce moment, je travaille sur une <a href="https://www.cotamed.fr">application <em>CotaMed</em></a> d'aide à la cotation pour les médecin généralistes.
+      En ce moment, je travaille sur : 
+      <ul>
+        <li>l'<a href="https://www.cotamed.fr">application <em>CotaMed</em></a> d'aide à la cotation pour les médecin généralistes</li>
+        <li>le logiciel <a href="https://www.med-sms.fr">MED SMS</a>, qui rend plus efficace la communication entre professionnels de santé et patients</li>
+      </ul>
     </p>
     <h2>Mon data profil Général (Linkedin)</h2>
     <p>
