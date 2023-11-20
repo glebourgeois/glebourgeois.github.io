@@ -9,10 +9,10 @@
     <h2>Quelques informations</h2>
     <p>
       Cette page de référence vous donne accès à toutes les informations concernant mon profil professionnel de <strong>Data Bricoleur Barbu</strong>.
-      Bien que j'ai évolué depuis quelques années vers des rôles d'encadrement, de coordination et d'animation d'équipes, je conserve mon for ADN de Web-Miner des débuts !
+      Bien que j'ai évolué depuis quelques années vers des rôles d'encadrement, de coordination et d'animation d'équipes, je conserve mon fort ADN de Web-Miner des débuts !
     </p>
     <p>
-    J'ai été récemment <strong>CTO</strong> chez <a href="http://www.clustaar.com">Clustaar</a>, ainsi que Engineering Manager chez <a href="https://www.zefir.fr">Zefir</a>, et j'aime travailler dans des milieux innovants, autour de problématiques d'extraction et d'exploitation de données.
+    J'ai été récemment <strong>CTO</strong> chez <a href="http://www.clustaar.com">Clustaar</a>, ainsi que <strong>Engineering Manager</strong> chez <a href="https://www.zefir.fr">Zefir</a>, et j'aime travailler dans des milieux innovants, autour de problématiques d'extraction et d'exploitation de données.
     </p>
     <p>
     J'ai créé le site Prenomrama (offline depuis un crash serveur), qui donne un regard statistique sur les prénoms français, et vous accompagne dans le choix d'un prénom pour votre bébé.
